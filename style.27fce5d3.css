@@ -1,0 +1,2 @@
+html{font-size:14px;font-family:Roboto,Arial,sans-serif}body{margin:0}.header{display:flex;height:60px;justify-content:space-between}.logo{margin:10px 10px 0 50px}.list{margin:0 50px;padding:0;list-style:none}.link,.list{display:flex;height:60px}.link{justify-content:center;align-items:center;padding:0 10px;color:#000;text-decoration:none}.is-active,.link:hover{color:#00acdc}.is-active{position:relative}.is-active:after{width:100%;height:4px;content:"";background-color:#00acdc;left:0;bottom:0;position:absolute}
+/*# sourceMappingURL=style.27fce5d3.css.map */
